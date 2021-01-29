@@ -1,0 +1,114 @@
+# packages in environment at [...]:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+absl-py                   0.11.0           py38h06a4308_0  
+aiohttp                   3.7.2            py38h27cfd23_1  
+astra-toolbox             1.9.9.dev4       py38hb48bd9c_0    astra-toolbox/label/dev
+async-timeout             3.0.1                    py38_0  
+attrs                     20.2.0                     py_0  
+blas                      1.0                         mkl  
+blinker                   1.4                      py38_0  
+brotlipy                  0.7.0           py38h7b6447c_1000  
+c-ares                    1.16.1               h7b6447c_0  
+ca-certificates           2020.10.14                    0  
+cached-property           1.5.2                    pypi_0    pypi
+cachetools                4.1.1                      py_0  
+certifi                   2020.6.20          pyhd3eb1b0_3  
+cffi                      1.14.3           py38he30daa8_0  
+chardet                   3.0.4                 py38_1003  
+click                     7.1.2                      py_0  
+cloudpickle               1.6.0                    pypi_0    pypi
+cryptography              3.1.1            py38h1ba5d50_0  
+cudatoolkit               10.1.243             h6bb024c_0  
+cycler                    0.10.0                   pypi_0    pypi
+decorator                 4.4.2                    pypi_0    pypi
+dival                     0.5.7                    pypi_0    pypi
+freetype                  2.10.4               h5ab3b9f_0  
+future                    0.18.2                   pypi_0    pypi
+google-auth               1.23.0             pyhd3eb1b0_0  
+google-auth-oauthlib      0.4.2              pyhd3eb1b0_2  
+grpcio                    1.31.0           py38hf8bcb03_0  
+h5py                      3.0.0                    pypi_0    pypi
+hyperopt                  0.2.5                    pypi_0    pypi
+idna                      2.10                       py_0  
+imageio                   2.9.0                      py_0  
+importlib-metadata        2.0.0                      py_1  
+intel-openmp              2020.2                      254  
+joblib                    0.17.0                   pypi_0    pypi
+jpeg                      9b                   h024ee3a_2  
+kiwisolver                1.3.1                    pypi_0    pypi
+lcms2                     2.11                 h396b838_0  
+ld_impl_linux-64          2.33.1               h53a641e_7  
+libastra                  1.9.9.dev4          cuda_10.1_0    astra-toolbox/label/dev
+libedit                   3.1.20191231         h14c3975_1  
+libffi                    3.3                  he6710b0_2  
+libgcc-ng                 9.1.0                hdf63c60_0  
+libgfortran-ng            7.3.0                hdf63c60_0  
+libpng                    1.6.37               hbc83047_0  
+libprotobuf               3.13.0.1             hd408876_0  
+libstdcxx-ng              9.1.0                hdf63c60_0  
+libtiff                   4.1.0                h2733197_1  
+lz4-c                     1.9.2                heb0550a_3  
+markdown                  3.3.2                    py38_0  
+matplotlib                3.3.2                    pypi_0    pypi
+mkl                       2020.2                      256  
+mkl-service               2.3.0            py38he904b0f_0  
+mkl_fft                   1.2.0            py38h23d657b_0  
+mkl_random                1.1.1            py38h0573a6f_0  
+msd_pytorch               0.9.0           py_3.8_cuda_10.1_pytorch_1.5    aahendriksen
+multidict                 4.7.6            py38h7b6447c_1  
+ncurses                   6.2                  he6710b0_1  
+networkx                  2.5                      pypi_0    pypi
+ninja                     1.10.1           py38hfd86e86_0  
+numpy                     1.19.2           py38h54aff64_0  
+numpy-base                1.19.2           py38hfa32c7d_0  
+oauthlib                  3.1.0                      py_0  
+odl                       1.0.0.dev0               pypi_0    pypi
+olefile                   0.46                       py_0  
+openssl                   1.1.1h               h7b6447c_0  
+packaging                 20.4                     pypi_0    pypi
+pandas                    1.1.4                    pypi_0    pypi
+pillow                    8.0.1            py38he98fc37_0  
+pip                       20.2.4                   py38_0  
+protobuf                  3.13.0.1         py38he6710b0_1  
+pyasn1                    0.4.8                      py_0  
+pyasn1-modules            0.2.8                      py_0  
+pycparser                 2.20                       py_2  
+pyjwt                     1.7.1                    py38_0  
+pyopenssl                 19.1.0                     py_1  
+pyparsing                 2.4.7                    pypi_0    pypi
+pysocks                   1.7.1                    py38_0  
+python                    3.8.5                h7579374_1  
+python-dateutil           2.8.1                    pypi_0    pypi
+pytorch                   1.5.1           py3.8_cuda10.1.243_cudnn7.6.3_0    pytorch
+pytz                      2020.4                   pypi_0    pypi
+pywavelets                1.1.1                    pypi_0    pypi
+readline                  8.0                  h7b6447c_0  
+requests                  2.24.0                     py_0  
+requests-oauthlib         1.3.0                      py_0  
+rsa                       4.6                        py_0  
+scikit-image              0.17.2                   pypi_0    pypi
+scikit-learn              0.23.2                   pypi_0    pypi
+scipy                     1.5.2            py38h0b6359f_0  
+setuptools                50.3.0           py38hb0f4dca_1  
+six                       1.15.0                     py_0  
+sqlite                    3.33.0               h62c20be_0  
+tensorboard               2.3.0              pyh4dce500_0  
+tensorboard-plugin-wit    1.6.0                      py_0  
+threadpoolctl             2.1.0                    pypi_0    pypi
+tifffile                  2020.10.1        py38hdd07704_2  
+tk                        8.6.10               hbc83047_0  
+tomosipo                  0.2.0                    pypi_0    pypi
+torchvision               0.6.1                py38_cu101    pytorch
+tqdm                      4.51.0                   pypi_0    pypi
+typing-extensions         3.7.4.3                       0  
+typing_extensions         3.7.4.3                    py_0  
+urllib3                   1.25.11                    py_0  
+werkzeug                  1.0.1                      py_0  
+wheel                     0.35.1                     py_0  
+xz                        5.2.5                h7b6447c_0  
+yarl                      1.5.1            py38h7b6447c_0  
+zipp                      3.4.0              pyhd3eb1b0_0  
+zlib                      1.2.11               h7b6447c_3  
+zstd                      1.4.5                h9ceee32_0  
