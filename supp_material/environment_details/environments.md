@@ -19,6 +19,12 @@ Based on main. Install additional packages via
 pip install pytorch-lightning torchvision git+https://github.com/VLL-HD/FrEIA.git
 ```
 
+###### fbpistaunet
+Based on main. Install additional packages via
+```
+pip install pickle5
+```
+
 ###### msd_pytorch
 ```
 conda create -n "msd_pytorch" msd_pytorch=0.9.0 cudatoolkit=10.1 torchvision tensorboard astra-toolbox -c aahendriksen -c pytorch -c defaults -c conda-forge -c astra-toolbox/label/dev
