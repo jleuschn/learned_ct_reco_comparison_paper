@@ -1,0 +1,3 @@
+Download instructions for Apple CT data
+
+apples_eval for all methods
